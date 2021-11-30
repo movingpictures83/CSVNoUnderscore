@@ -1,0 +1,2 @@
+Prefix plugins/CSVNoUnderscore/example
+Plugin CSVNoUnderscore inputfile asv.tab.csv outputfile asv.tab.nounderscore.csv
